@@ -1,4 +1,4 @@
-# 
+# Personalizado Cline plugins. Com código aberto e ajuste fino — otimizado para máximo desempenho e eficiência.
 
 
 
